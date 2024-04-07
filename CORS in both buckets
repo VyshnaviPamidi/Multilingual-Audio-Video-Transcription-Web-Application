@@ -1,3 +1,5 @@
+//CORS code in both input and output Buckets
+
 [
     {
         "AllowedHeaders": [
