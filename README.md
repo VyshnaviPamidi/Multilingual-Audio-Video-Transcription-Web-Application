@@ -1,4 +1,4 @@
-# Serverless-Website-that-can-transcribe-audio-or-video-recordings-of-multiple-languages
+# Multilingual Audio/Video Transcription Web Application
 
 My project offers a seamless solution for converting audio or video files into accessible transcripts through the integration of modern technology and user-friendly interfaces. By leveraging AWS services and a dynamic web application, users can easily upload their files and receive accurate transcripts, making transcription accessible to all. With AWS S3 buckets managing data storage, AWS Transcribe handles the transcription process, while our web interface provides a convenient platform for users to interact with the system and download their transcripts.
 
